@@ -1,5 +1,5 @@
-import { Checkbox } from "../assets/components/forms/Chekbox";
-import { Input } from "../assets/components/forms/Input";
+import { Checkbox } from "../components/forms/Chekbox";
+import { Input } from "../components/forms/Input";
 
 export function SearchBar({searchText ,  onSearchTextChange, showStockedOnly , onStockedOnlyChange}){
 

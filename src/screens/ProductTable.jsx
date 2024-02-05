@@ -1,5 +1,5 @@
-import { ProductCategorieRow } from "../assets/components/products/ProductCategorieRow";
-import { ProductRow } from "../assets/components/products/ProductRow";
+import { ProductCategorieRow } from "../components/products/ProductCategorieRow";
+import { ProductRow } from "../components/products/ProductRow";
 
 export function ProductTable({products}){
     let lastCategory = null;
